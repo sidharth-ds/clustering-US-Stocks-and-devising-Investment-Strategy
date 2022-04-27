@@ -15,15 +15,16 @@
 ### Problem 3 - Compute Monthly returns
 * The monthly dates are extracted using pandas modules such as USFederalHolidayCalendar, CustomBusinessMonthBegin, CustomBusinessMonthEnd.
 * Mean of Monthly returns of 20 years (2000-2020) is calculated.
+   * Investing in April gives highest returns (profits), September & February makes loss.
 
 ### Problem 4 - Use DECISION TREE to classify if investing in any month can be a profitable strategy:(Business statement)
 * Calculating the Month based profit/loss (Decision tree Regression model predictions)
-* Comparing Actual-value VS Decision-tree model predicted-values
-* finally, using Decision tree classifier to classify month based profit/loss
+* Comparing Actual-value VS Decision-tree predicted-values
+* finally, using Decision tree classifier to classify month based profit/loss (binary classification problem)
 * Evaluating the model: (Error metrics)
     * Confusion matrix
     * Classification report
     * AUC-ROC curve
     * overall accuracy score score is 71%
 * Plotting the decision tree
-* using Hyper-parameter tuning
+* Hyper-parameter tuning to improve my model
