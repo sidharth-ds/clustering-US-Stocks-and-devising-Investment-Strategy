@@ -25,6 +25,6 @@
     * Confusion matrix
     * Classification report
     * AUC-ROC curve
-    * overall accuracy score score is 71%
+    * overall accuracy score is 71%
 * Plotting the decision tree
 * Hyper-parameter tuning to improve my model
