@@ -10,7 +10,7 @@
 ### Problem 2 - Examine the daily open, close, and volume data:
 * Computing the Fractional Differencing values for (1) Opening price, (2) Closing price, (3) Volume of stocks traded daily.
 * Clustering the above 3 parameters
-   * optimum no:of clusters is found to be 5
+   * optimum no:of clusters is found to be 5.
 
 ### Problem 3 - Compute Monthly returns
 * The monthly dates are extracted using pandas modules such as USFederalHolidayCalendar, CustomBusinessMonthBegin, CustomBusinessMonthEnd.
